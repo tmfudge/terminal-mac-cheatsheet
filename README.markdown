@@ -1,6 +1,6 @@
 # Terminal Cheatsheet for Mac (Basics)
 
-This cheatsheet is available in many languages. Since the translation rely on volunteers, the content between the available languages may vary. Choose one below:
+This cheatsheet is available in many languages.Since the translation rely on volunteers, the content between the available languages may vary. Choose one below:
 
 - [English Version](#english-version)
 - [Version en Español](https://github.com/0nn0/terminal-mac-cheatsheet/tree/master/Español)
